@@ -1,3 +1,5 @@
+# 本期 AI 开发【宝藏工具】精选：值得收藏！！ 
+
 📌 **推荐大家 Star 收藏这个项目仓库：**  
 👉 [https://github.com/TUARAN/TreasureToolHub](https://github.com/TUARAN/TreasureToolHub)
 
@@ -121,10 +123,6 @@ ask-human-mcp 特别适合 AI 编程助手、Agent 任务调度器和复杂调�
 - **MCP 联动策略**：连接真实工具、数据库和文档，构建复杂 AI 应用。
 - **模型混合使用**：Claude 4 做规划，Gemini 2.5 编码，o3 精调，组合出效果。
 - **工程化思维**：模块化 + 关注点分离，确保项目可扩展和可维护。
-
-## 📌 订阅与更新
-
-我将定期更新这份 AI 工具推荐清单，并在 Notion 知识库、微信公众号和 GitHub 仓库同步发布。如果您希望订阅更新、获取 PDF 整合版本、提供工具建议或分享使用心得，欢迎通过留言评论、私信「工具合集 + 邮箱」、GitHub Issues 或邮件订阅等方式联系我们。
 
 ---
 
