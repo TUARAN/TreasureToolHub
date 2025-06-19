@@ -6,7 +6,7 @@
 
 这期推荐的工具，涵盖了插件开发、系统消息推送、词库采集、图像识番、文本处理等多个方向，不论你是前端、后端、AI 工程师还是 DevOps，都能找到对口的效率神器。
 
-📌 **推荐大家 Star 收藏这个项目仓库：**  
+📌 **推荐大家 Star 项目仓库：**  
 👉 [https://github.com/TUARAN/TreasureToolHub](https://github.com/TUARAN/TreasureToolHub)
 
 📚 **查看往期推荐合集专栏：**  
